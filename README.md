@@ -71,18 +71,15 @@ Si te interesa mi perfil siempre estoy abierto a nuevas ideas, colaboraciones y 
 
 <p align="center">
   <a href="https://github.com/Aniwyn/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniwyn&include_all_commits=true&count_private=true&show_icons=true&theme=radical" width="450"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniwyn&include_all_commits=true&count_private=true&show_icons=true&theme=radical" width="400"/>
+  </a>
+  <a href="https://github.com/Aniwyn">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniwyn&theme=radical" width="400"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Aniwyn">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniwyn&theme=radical" width="450"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Aniwyn">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniwyn&show_icons=true&locale=en&layout=compact&theme=radical" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniwyn&show_icons=true&locale=en&layout=compact&theme=radical" width="380"/>
   </a>
 </p>
